@@ -10,7 +10,7 @@ export const options = {
   },
 };
 
-const BASE_URL = 'https://tramites.goes.sigenesishost.com';
+const BASE_URL = 'http://api-v2-buro-creditos.goes.sigenesishost.com/api/documentation';
 const USUARIO = 'test';
 const CONTRASEÑA = 'test';
 
